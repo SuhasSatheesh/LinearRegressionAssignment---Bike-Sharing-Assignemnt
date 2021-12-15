@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Business Objective](#Business-Objective)
-* [Objective of the Assignment](#Objective of the Assignment)
+* [Objective of the Assignment](#Objective-of-the-Assignment)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
