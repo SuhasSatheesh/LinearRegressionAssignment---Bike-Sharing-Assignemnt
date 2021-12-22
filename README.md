@@ -7,6 +7,7 @@
 * [Technologies Used](#technologies-used)
 * [Business Objective](#Business-Objective)
 * [Objective of the Assignment](#Objective-of-the-Assignment)
+* [To view the BikeSharingAssignment_Suhas .ipynb](#To-view-the-BikeSharingAssignment_Suhas-.ipynb)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -34,6 +35,9 @@
 - Creating a linear model that describe the effect of various features on demand.
 - The model should be interpretable so that the management can understand it.
 
+## To view the BikeSharingAssignment_Suhas .ipynb
+Please visit the link
+https://nbviewer.org/github/SuhasSatheesh/LinearRegressionAssignment---Bike-Sharing-Assignment/blob/master/BikeSharingAssignment_Suhas%20.ipynb
 
 
 
